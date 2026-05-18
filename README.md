@@ -10,7 +10,7 @@ AI/ML engineering student building things that actually work.
 
 Clean code. Real systems. Problems that matter. Building in public, committing daily, learning by doing.
 
-Currently: deep in Python, Deep Learning, DSA, and agentic AI systems. Next: Java + advanced DSA.
+Currently: deep in Python, Deep Learning, DSA, and agentic AI systems. Next: Deep Learning.
 
 ---
 
@@ -40,7 +40,7 @@ Agentic AI system generating customised exam papers from topic inputs and diffic
 | Area | Tools & Technologies |
 |---|---|
 | **Languages** | C, Python, SQL, Java, JavaScript (basics) |
-| **ML & Data** | NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, SHAP |
+| **ML & Data** | NumPy, Pandas, Scikit-learn, XGBoost, Matplotlib |
 | **Deep Learning** | Neural Networks, CNNs, active research-level study |
 | **LLM & Agents** | OpenAI API, Gemini API, Function Calling, Prompt Engineering, RAG (in progress) |
 | **Tools** | Git, GitHub, Streamlit, Jupyter, Google Colab, VS Code |
@@ -76,9 +76,8 @@ Full-Stack Developer | Team TechnoCrats | PS #25031
 ## 📍 What's Next
 
 - [ ] Finish and deploy ExamGuard publicly
-- [ ] Complete CS50 + CS50P
+- [ ] Complete CS50
 - [ ] Java + advanced DSA grind (post-internship, July–August 2026)
-- [ ] Target Google internship + Tier-1 AI startup roles
 - [ ] Keep building — in public, with purpose
 
 ---
