@@ -31,8 +31,7 @@ Agentic AI system generating customised exam papers from topic inputs and diffic
 
 - Original capstone for **Google × Kaggle 5-Day AI Agents Intensive** — conceived and built independently
 - Adding **RAG over subject syllabus PDFs** using LangChain + FAISS
-- Deploying as public Streamlit app → [Repository](https://github.com/harshikaa97)
-
+- Currently working on deploying it as a public Streamlit app
 ---
 
 ## 🛠️ Technical Skills
